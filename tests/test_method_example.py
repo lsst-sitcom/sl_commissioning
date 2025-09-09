@@ -1,7 +1,7 @@
 import unittest
 import logging
 
-from lsst.sitcom.guylp.example_function import example_function
+from lsst.sitcom.sl.example_function import example_function
 
 logging.basicConfig()
 logger = logging.getLogger(__name__)
