@@ -1,8 +1,8 @@
-######################################################
-Rubin Observatory Personal SIT-Com Notebook Repository
-######################################################
+##############################################################
+Rubin Observatory SIT-Com Strong Lensing Validation Repository
+##############################################################
 
-This repository is to store and organize notebooks and any associated methods which contain Rubin related work but are not meant for public consumption and are not expected to be supported by the author.
+This repository is to store and organize notebooks and any associated methods which contain Rubin Strong Lensing science validation related work but are not meant for public consumption and are not expected to be supported by the author.
 The reason for creation of this repo is to ensure work is documented and stored in a place that is available by all SIT-Com personnel.
 This is important to ensure content is available to others in the event that the original author cannot support the activity.
 
